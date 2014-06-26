@@ -132,7 +132,7 @@ class Mission
 					skill=0.60000002;
 					text="cop_16";
 					init="removeBackpack this; removeAllWeapons this;";
-					description="WhiteListed - Cop 16";
+					description="Polizist 16";
 				};
 				class Item1
 				{
@@ -145,7 +145,7 @@ class Mission
 					skill=0.60000002;
 					text="cop_17";
 					init="removeBackpack this; removeAllWeapons this;";
-					description="WhiteListed - Cop 17";
+					description="Polizist 17";
 				};
 				class Item2
 				{
@@ -171,7 +171,7 @@ class Mission
 					skill=0.60000002;
 					text="cop_13";
 					init="removeBackpack this; removeAllWeapons this;";
-					description="WhiteListed - Cop 13";
+					description="Polizist 13";
 				};
 				class Item4
 				{
@@ -184,7 +184,7 @@ class Mission
 					skill=0.60000002;
 					text="cop_6";
 					init="removeBackpack this; removeAllWeapons this;";
-					description="WhiteListed - Cop 6";
+					description="Polizist 6";
 				};
 				class Item5
 				{
@@ -197,7 +197,7 @@ class Mission
 					skill=0.60000002;
 					text="cop_11";
 					init="removeBackpack this; removeAllWeapons this;";
-					description="WhiteListed - Cop 11";
+					description="Polizist 11";
 				};
 				class Item6
 				{
@@ -210,7 +210,7 @@ class Mission
 					skill=0.60000002;
 					text="cop_7";
 					init="removeBackpack this; removeAllWeapons this;";
-					description="WhiteListed - Cop 7";
+					description="Polizist 7";
 				};
 				class Item7
 				{
@@ -223,7 +223,7 @@ class Mission
 					skill=0.60000002;
 					text="cop_12";
 					init="removeBackpack this; removeAllWeapons this;";
-					description="WhiteListed - Cop 12";
+					description="Polizist 12";
 				};
 				class Item8
 				{
@@ -236,7 +236,7 @@ class Mission
 					skill=0.60000002;
 					text="cop_14";
 					init="removeBackpack this; removeAllWeapons this;";
-					description="WhiteListed - Cop 14";
+					description="Polizist 14";
 				};
 				class Item9
 				{
@@ -263,7 +263,7 @@ class Mission
 					skill=0.60000002;
 					text="cop_15";
 					init="removeBackpack this; removeAllWeapons this;";
-					description="WhiteListed - Cop 15";
+					description="Polizist 15";
 				};
 				class Item11
 				{
@@ -276,7 +276,7 @@ class Mission
 					skill=0.60000002;
 					text="cop_9";
 					init="removeBackpack this; removeAllWeapons this;";
-					description="WhiteListed - Cop 9";
+					description="Polizist 9";
 				};
 				class Item12
 				{
@@ -289,7 +289,7 @@ class Mission
 					skill=0.60000002;
 					text="cop_8";
 					init="removeBackpack this; removeAllWeapons this;";
-					description="WhiteListed - Cop 8";
+					description="Polizist 8";
 				};
 				class Item13
 				{
@@ -302,7 +302,7 @@ class Mission
 					skill=0.60000002;
 					text="cop_4";
 					init="removeBackpack this; removeAllWeapons this;";
-					description="WhiteListed - Cop 4";
+					description="Polizist 4";
 					syncId=0;
 					synchronizations[]={0};
 				};
@@ -317,7 +317,7 @@ class Mission
 					skill=0.60000002;
 					text="cop_2";
 					init="removeBackpack this; removeAllWeapons this;";
-					description="WhiteListed - Cop 2";
+					description="Polizist 2";
 				};
 				class Item15
 				{
@@ -330,7 +330,7 @@ class Mission
 					skill=0.60000002;
 					text="cop_3";
 					init="removeBackpack this; removeAllWeapons this;";
-					description="WhiteListed - Cop 3";
+					description="Polizist 3";
 				};
 				class Item16
 				{
@@ -343,7 +343,7 @@ class Mission
 					skill=0.60000002;
 					text="cop_5";
 					init="removeBackpack this; removeAllWeapons this;";
-					description="WhiteListed - Cop 5";
+					description="Polizist 5";
 				};
 				class Item17
 				{
@@ -356,7 +356,7 @@ class Mission
 					skill=0.60000002;
 					text="cop_10";
 					init="removeBackpack this; removeAllWeapons this;";
-					description="WhiteListed - Cop 10";
+					description="Polizist 10";
 				};
 				class Item18
 				{
@@ -370,7 +370,7 @@ class Mission
 					skill=0.60000002;
 					text="cop_1";
 					init="removeBackpack this; removeAllWeapons this;";
-					description="WhiteListed - Cop 1";
+					description="Polizist 1";
 				};
 			};
 		};
@@ -392,7 +392,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_1";
-					description="Civ 1";
+					description="Zivilist 1";
 				};
 			};
 		};
@@ -414,7 +414,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_2";
-					description="Civ 2";
+					description="Zivilist 2";
 				};
 			};
 		};
@@ -436,7 +436,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_3";
-					description="Civ 3";
+					description="Zivilist 3";
 				};
 			};
 		};
@@ -458,7 +458,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_4";
-					description="Civ 4";
+					description="Zivilist 4";
 				};
 			};
 		};
@@ -480,7 +480,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_5";
-					description="Civ 5";
+					description="Zivilist 5";
 				};
 			};
 		};
@@ -502,7 +502,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_6";
-					description="Civ 6";
+					description="Zivilist 6";
 				};
 			};
 		};
@@ -524,7 +524,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_7";
-					description="Civ 7";
+					description="Zivilist 7";
 				};
 			};
 		};
@@ -546,7 +546,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_8";
-					description="Civ 8";
+					description="Zivilist 8";
 				};
 			};
 		};
@@ -568,7 +568,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_9";
-					description="Civ 9";
+					description="Zivilist 9";
 				};
 			};
 		};
@@ -590,7 +590,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_10";
-					description="Civ 10";
+					description="Zivilist 10";
 				};
 			};
 		};
@@ -612,7 +612,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_11";
-					description="Civ 11";
+					description="Zivilist 11";
 				};
 			};
 		};
@@ -634,7 +634,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_12";
-					description="Civ 12";
+					description="Zivilist 12";
 				};
 			};
 		};
@@ -656,7 +656,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_13";
-					description="Civ 13";
+					description="Zivilist 13";
 				};
 			};
 		};
@@ -678,7 +678,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_14";
-					description="Civ 14";
+					description="Zivilist 14";
 				};
 			};
 		};
@@ -700,7 +700,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_15";
-					description="Civ 15";
+					description="Zivilist 15";
 				};
 			};
 		};
@@ -722,7 +722,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_16";
-					description="Civ 16";
+					description="Zivilist 16";
 				};
 			};
 		};
@@ -744,7 +744,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_17";
-					description="Civ 17";
+					description="Zivilist 17";
 				};
 			};
 		};
@@ -766,7 +766,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_18";
-					description="Civ 18";
+					description="Zivilist 18";
 				};
 			};
 		};
@@ -788,7 +788,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_19";
-					description="Civ 19";
+					description="Zivilist 19";
 				};
 			};
 		};
@@ -810,7 +810,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_20";
-					description="Civ 20";
+					description="Zivilist 20";
 				};
 			};
 		};
@@ -832,7 +832,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_21";
-					description="Civ 21";
+					description="Zivilist 21";
 				};
 			};
 		};
@@ -854,7 +854,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_22";
-					description="Civ 22";
+					description="Zivilist 22";
 				};
 			};
 		};
@@ -876,7 +876,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_23";
-					description="Civ 23";
+					description="Zivilist 23";
 				};
 			};
 		};
@@ -898,7 +898,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_24";
-					description="Civ 24";
+					description="Zivilist 24";
 				};
 			};
 		};
@@ -920,7 +920,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_25";
-					description="Civ 25";
+					description="Zivilist 25";
 				};
 			};
 		};
@@ -942,7 +942,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_26";
-					description="Civ 26";
+					description="Zivilist 26";
 				};
 			};
 		};
@@ -964,7 +964,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_27";
-					description="Civ 27";
+					description="Zivilist 27";
 				};
 			};
 		};
@@ -986,7 +986,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_28";
-					description="Civ 28";
+					description="Zivilist 28";
 				};
 			};
 		};
@@ -1008,7 +1008,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_29";
-					description="Civ 29";
+					description="Zivilist 29";
 				};
 			};
 		};
@@ -1030,7 +1030,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_30";
-					description="Civ 30";
+					description="Zivilist 30";
 				};
 			};
 		};
@@ -1052,7 +1052,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_31";
-					description="Civ 31";
+					description="Zivilist 31";
 				};
 			};
 		};
@@ -1074,7 +1074,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_32";
-					description="Civ 32";
+					description="Zivilist 32";
 				};
 			};
 		};
@@ -1096,7 +1096,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_33";
-					description="Civ 33";
+					description="Zivilist 33";
 				};
 			};
 		};
@@ -1118,7 +1118,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_34";
-					description="Civ 34";
+					description="Zivilist 34";
 				};
 			};
 		};
@@ -1140,7 +1140,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_35";
-					description="Civ 35";
+					description="Zivilist 35";
 				};
 			};
 		};
@@ -1162,7 +1162,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_36";
-					description="Civ 36";
+					description="Zivilist 36";
 				};
 			};
 		};
@@ -1184,7 +1184,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_37";
-					description="Civ 37";
+					description="Zivilist 37";
 				};
 			};
 		};
@@ -1206,7 +1206,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_38";
-					description="Civ 38";
+					description="Zivilist 38";
 				};
 			};
 		};
@@ -1228,7 +1228,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_39";
-					description="Civ 39";
+					description="Zivilist 39";
 				};
 			};
 		};
@@ -1250,7 +1250,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_40";
-					description="Civ 40";
+					description="Zivilist 40";
 				};
 			};
 		};
@@ -1272,7 +1272,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_41";
-					description="Civ 41";
+					description="Zivilist 41";
 				};
 			};
 		};
@@ -1294,7 +1294,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_42";
-					description="Civ 42";
+					description="Zivilist 42";
 				};
 			};
 		};
@@ -1316,7 +1316,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_43";
-					description="Civ 43";
+					description="Zivilist 43";
 				};
 			};
 		};
@@ -1338,7 +1338,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_44";
-					description="Civ 44";
+					description="Zivilist 44";
 				};
 			};
 		};
@@ -1360,7 +1360,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_45";
-					description="Civ 45";
+					description="Zivilist 45";
 				};
 			};
 		};
@@ -1382,7 +1382,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_46";
-					description="Civ 46";
+					description="Zivilist 46";
 				};
 			};
 		};
@@ -1404,7 +1404,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_47";
-					description="Civ 47";
+					description="Zivilist 47";
 				};
 			};
 		};
@@ -1426,7 +1426,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_48";
-					description="Civ 48";
+					description="Zivilist 48";
 				};
 			};
 		};
@@ -1448,7 +1448,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_49";
-					description="Civ 49";
+					description="Zivilist 49";
 				};
 			};
 		};
@@ -1470,7 +1470,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_50";
-					description="Civ 50";
+					description="Zivilist 50";
 				};
 			};
 		};
@@ -1492,7 +1492,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_51";
-					description="Civ 51";
+					description="Zivilist 51";
 				};
 			};
 		};
@@ -1514,7 +1514,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_52";
-					description="Civ 52";
+					description="Zivilist 52";
 				};
 			};
 		};
@@ -1536,7 +1536,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_53";
-					description="Civ 53";
+					description="Zivilist 53";
 				};
 			};
 		};
@@ -1558,7 +1558,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_54";
-					description="Civ 54";
+					description="Zivilist 54";
 				};
 			};
 		};
@@ -1580,7 +1580,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_55";
-					description="Civ 55";
+					description="Zivilist 55";
 				};
 			};
 		};
@@ -1602,7 +1602,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_56";
-					description="Civ 56";
+					description="Zivilist 56";
 				};
 			};
 		};
@@ -1624,7 +1624,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_57";
-					description="Civ 57";
+					description="Zivilist 57";
 				};
 			};
 		};
@@ -1646,7 +1646,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_58";
-					description="Civ 58";
+					description="Zivilist 58";
 				};
 			};
 		};
@@ -1668,7 +1668,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_59";
-					description="Civ 59";
+					description="Zivilist 59";
 				};
 			};
 		};
@@ -1690,7 +1690,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_60";
-					description="Civ 60";
+					description="Zivilist 60";
 				};
 			};
 		};
@@ -1712,7 +1712,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_61";
-					description="Civ 61";
+					description="Zivilist 61";
 				};
 			};
 		};
@@ -1734,7 +1734,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_62";
-					description="Civ 62";
+					description="Zivilist 62";
 				};
 			};
 		};
@@ -1756,7 +1756,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_63";
-					description="Civ 63";
+					description="Zivilist 63";
 				};
 			};
 		};
@@ -1778,7 +1778,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_64";
-					description="Civ 64";
+					description="Zivilist 64";
 				};
 			};
 		};
@@ -1800,7 +1800,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_65";
-					description="Civ 65";
+					description="Zivilist 65";
 				};
 			};
 		};
@@ -1822,7 +1822,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_70";
-					description="Civ 70";
+					description="Zivilist 70";
 				};
 			};
 		};
@@ -1844,7 +1844,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_69";
-					description="Civ 69";
+					description="Zivilist 69";
 				};
 			};
 		};
@@ -1866,7 +1866,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_68";
-					description="Civ 68";
+					description="Zivilist 68";
 				};
 			};
 		};
@@ -1888,7 +1888,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_67";
-					description="Civ 67";
+					description="Zivilist 67";
 				};
 			};
 		};
@@ -1910,7 +1910,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_66";
-					description="Civ 66";
+					description="Zivilist 66";
 				};
 			};
 		};
@@ -1932,7 +1932,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_75";
-					description="Civ 75";
+					description="Zivilist 75";
 				};
 			};
 		};
@@ -1954,7 +1954,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_74";
-					description="Civ 74";
+					description="Zivilist 74";
 				};
 			};
 		};
@@ -1976,7 +1976,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_73";
-					description="Civ 73";
+					description="Zivilist 73";
 				};
 			};
 		};
@@ -1998,7 +1998,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_72";
-					description="Civ 72";
+					description="Zivilist 72";
 				};
 			};
 		};
@@ -2020,7 +2020,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_71";
-					description="Civ 71";
+					description="Zivilist 71";
 				};
 			};
 		};
@@ -2888,7 +2888,7 @@ class Mission
 					side="CIV";
 					vehicle="C_man_1";
 					skill=0.60000002;
-					init="this allowDamage false; this enableSimulation false; this addAction[""Glass Trader"",life_fnc_virt_menu,""glass""];";
+					init="this allowDamage false; this enableSimulation false; this addAction[""Glashändler"",life_fnc_virt_menu,""glass""];";
 				};
 				class Item67
 				{
@@ -2899,7 +2899,7 @@ class Mission
 					side="CIV";
 					vehicle="C_man_1";
 					skill=0.60000002;
-					init="this allowDamage false; this enableSimulation false; this addAction[""Iron / Copper Trader"",life_fnc_virt_menu,""iron""];";
+					init="this allowDamage false; this enableSimulation false; this addAction[""Eisen- und Kupferhändler"",life_fnc_virt_menu,""iron""];";
 				};
 				class Item68
 				{
@@ -2922,7 +2922,7 @@ class Mission
 					side="CIV";
 					vehicle="C_man_1";
 					skill=0.60000002;
-					init="this allowDamage false; this enableSimulation false; this addAction[""Diamond Trader"",life_fnc_virt_menu,""diamond""];";
+					init="this allowDamage false; this enableSimulation false; this addAction[""Diamanthändler"",life_fnc_virt_menu,""diamond""];";
 				};
 				class Item70
 				{
@@ -3002,7 +3002,7 @@ class Mission
 					side="WEST";
 					vehicle="B_RangeMaster_F";
 					skill=0.60000002;
-					init="this enableSimulation false; this allowDamage false; this addAction[""Gun Store"",life_fnc_weaponShopMenu,""gun"",0,false,false,"""",' license_civ_gun && playerSide == civilian']; this addAction[format[""%1 ($%2)"",[""license_civ_gun""] call life_fnc_varToStr,[([""gun""] call life_fnc_licensePrice)] call life_fnc_numberText],life_fnc_buyLicense,""gun"",0,false,false,"""",' !license_civ_gun && playerSide == civilian '];";
+					init="this enableSimulation false; this allowDamage false; this addAction[""Waffenladen"",life_fnc_weaponShopMenu,""gun"",0,false,false,"""",' license_civ_gun && playerSide == civilian']; this addAction[format[""%1 ($%2)"",[""license_civ_gun""] call life_fnc_varToStr,[([""gun""] call life_fnc_licensePrice)] call life_fnc_numberText],life_fnc_buyLicense,""gun"",0,false,false,"""",' !license_civ_gun && playerSide == civilian '];";
 				};
 				class Item77
 				{
@@ -3151,7 +3151,7 @@ class Mission
 					side="CIV";
 					vehicle="C_man_1";
 					skill=0.60000002;
-					init="this allowDamage false; this enableSimulation false; this addAction[""Cement Trader"",life_fnc_virt_menu,""cement""];";
+					init="this allowDamage false; this enableSimulation false; this addAction[""Zementhändler"",life_fnc_virt_menu,""cement""];";
 				};
 				class Item90
 				{
@@ -3185,7 +3185,7 @@ class Mission
 					side="WEST";
 					vehicle="B_RangeMaster_F";
 					skill=0.60000002;
-					init="this enableSimulation false; this allowDamage false; this addAction[""Gun Store"",life_fnc_weaponShopMenu,""gun"",0,false,false,"""",' license_civ_gun && playerSide == civilian']; this addAction[format[""%1 ($%2)"",[""license_civ_gun""] call life_fnc_varToStr,[([""gun""] call life_fnc_licensePrice)] call life_fnc_numberText],life_fnc_buyLicense,""gun"",0,false,false,"""",' !license_civ_gun && playerSide == civilian '];";
+					init="this enableSimulation false; this allowDamage false; this addAction[""Waffenladen"",life_fnc_weaponShopMenu,""gun"",0,false,false,"""",' license_civ_gun && playerSide == civilian']; this addAction[format[""%1 ($%2)"",[""license_civ_gun""] call life_fnc_varToStr,[([""gun""] call life_fnc_licensePrice)] call life_fnc_numberText],life_fnc_buyLicense,""gun"",0,false,false,"""",' !license_civ_gun && playerSide == civilian '];";
 				};
 				class Item93
 				{
@@ -3417,7 +3417,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="medic_1";
-					description="EMS Medic";
+					description="Notarzt";
 				};
 				class Item1
 				{
@@ -3430,7 +3430,7 @@ class Mission
 					player="PLAY CDG";
 					skill=0.60000002;
 					text="medic_3";
-					description="EMS Medic";
+					description="Notarzt";
 				};
 				class Item2
 				{
@@ -3443,7 +3443,7 @@ class Mission
 					player="PLAY CDG";
 					skill=0.60000002;
 					text="medic_4";
-					description="EMS Medic";
+					description="Notarzt";
 				};
 				class Item3
 				{
@@ -3456,7 +3456,7 @@ class Mission
 					player="PLAY CDG";
 					skill=0.60000002;
 					text="medic_2";
-					description="EMS Medic";
+					description="Notarzt";
 				};
 			};
 		};
@@ -7489,7 +7489,7 @@ class Mission
 			side="EMPTY";
 			vehicle="Land_Atm_02_F";
 			skill=0.60000002;
-			init="this enableSimulation false; this allowDamage false; this addAction[""<t color='#ADFF2F'>ATM</t>"",life_fnc_atmMenu,"""",0,FALSE,FALSE,"""",' vehicle player == player && player distance _target < 4 ']; this addAction[""Banking Insurance ($1,000)"",{if(life_atmcash > 1000) then {life_has_insurance = true; life_atmcash = life_atmcash - 1000};},"""",0,false,false,"""",'!life_has_insurance'];";
+			init="this enableSimulation false; this allowDamage false; this addAction[""<t color='#ADFF2F'>Bankomat</t>"",life_fnc_atmMenu,"""",0,FALSE,FALSE,"""",' vehicle player == player && player distance _target < 4 ']; this addAction[""Banking Insurance ($1,000)"",{if(life_atmcash > 1000) then {life_has_insurance = true; life_atmcash = life_atmcash - 1000};},"""",0,false,false,"""",'!life_has_insurance'];";
 		};
 		class Item400
 		{
@@ -7499,7 +7499,7 @@ class Mission
 			side="EMPTY";
 			vehicle="Land_Atm_02_F";
 			skill=0.60000002;
-			init="this enableSimulation false; this allowDamage false; this addAction[""<t color='#ADFF2F'>ATM</t>"",life_fnc_atmMenu,"""",0,FALSE,FALSE,"""",' vehicle player == player && player distance _target < 4 ']; this addAction[""Banking Insurance ($1,000)"",{if(life_atmcash > 1000) then {life_has_insurance = true; life_atmcash = life_atmcash - 1000};},"""",0,false,false,"""",'!life_has_insurance'];";
+			init="this enableSimulation false; this allowDamage false; this addAction[""<t color='#ADFF2F'>Bankomat</t>"",life_fnc_atmMenu,"""",0,FALSE,FALSE,"""",' vehicle player == player && player distance _target < 4 ']; this addAction[""Banking Insurance ($1,000)"",{if(life_atmcash > 1000) then {life_has_insurance = true; life_atmcash = life_atmcash - 1000};},"""",0,false,false,"""",'!life_has_insurance'];";
 		};
 		class Item401
 		{
@@ -7511,7 +7511,7 @@ class Mission
 			vehicle="Land_Atm_01_F";
 			skill=0.60000002;
 			text="a1";
-			init="this enableSimulation false; this allowDamage false; this addAction[""<t color='#ADFF2F'>ATM</t>"",life_fnc_atmMenu,"""",0,FALSE,FALSE,"""",' vehicle player == player && player distance _target < 4 ']; this addAction[""Banking Insurance ($1,000)"",{if(life_atmcash > 1000) then {life_has_insurance = true; life_atmcash = life_atmcash - 1000};},"""",0,false,false,"""",'!life_has_insurance'];";
+			init="this enableSimulation false; this allowDamage false; this addAction[""<t color='#ADFF2F'>Bankomat</t>"",life_fnc_atmMenu,"""",0,FALSE,FALSE,"""",' vehicle player == player && player distance _target < 4 ']; this addAction[""Banking Insurance ($1,000)"",{if(life_atmcash > 1000) then {life_has_insurance = true; life_atmcash = life_atmcash - 1000};},"""",0,false,false,"""",'!life_has_insurance'];";
 		};
 		class Item402
 		{
@@ -7521,7 +7521,7 @@ class Mission
 			side="EMPTY";
 			vehicle="Land_Atm_02_F";
 			skill=0.60000002;
-			init="this enableSimulation false; this allowDamage false; this addAction[""<t color='#ADFF2F'>ATM</t>"",life_fnc_atmMenu,"""",0,FALSE,FALSE,"""",' vehicle player == player && player distance _target < 4 ']; this addAction[""Banking Insurance ($1,000)"",{if(life_atmcash > 1000) then {life_has_insurance = true; life_atmcash = life_atmcash - 1000};},"""",0,false,false,"""",'!life_has_insurance'];";
+			init="this enableSimulation false; this allowDamage false; this addAction[""<t color='#ADFF2F'>Bankomat</t>"",life_fnc_atmMenu,"""",0,FALSE,FALSE,"""",' vehicle player == player && player distance _target < 4 ']; this addAction[""Banking Insurance ($1,000)"",{if(life_atmcash > 1000) then {life_has_insurance = true; life_atmcash = life_atmcash - 1000};},"""",0,false,false,"""",'!life_has_insurance'];";
 		};
 		class Item403
 		{
@@ -7531,7 +7531,7 @@ class Mission
 			side="EMPTY";
 			vehicle="Land_Atm_02_F";
 			skill=0.60000002;
-			init="this enableSimulation false; this allowDamage false; this addAction[""<t color='#ADFF2F'>ATM</t>"",life_fnc_atmMenu,"""",0,FALSE,FALSE,"""",' vehicle player == player && player distance _target < 4 ']; this addAction[""Banking Insurance ($1,000)"",{if(life_atmcash > 1000) then {life_has_insurance = true; life_atmcash = life_atmcash - 1000};},"""",0,false,false,"""",'!life_has_insurance'];";
+			init="this enableSimulation false; this allowDamage false; this addAction[""<t color='#ADFF2F'>Bankomat</t>"",life_fnc_atmMenu,"""",0,FALSE,FALSE,"""",' vehicle player == player && player distance _target < 4 ']; this addAction[""Banking Insurance ($1,000)"",{if(life_atmcash > 1000) then {life_has_insurance = true; life_atmcash = life_atmcash - 1000};},"""",0,false,false,"""",'!life_has_insurance'];";
 		};
 		class Item404
 		{
@@ -7541,7 +7541,7 @@ class Mission
 			side="EMPTY";
 			vehicle="Land_Atm_02_F";
 			skill=0.60000002;
-			init="this enableSimulation false; this allowDamage false; this addAction[""<t color='#ADFF2F'>ATM</t>"",life_fnc_atmMenu,"""",0,FALSE,FALSE,"""",' vehicle player == player && player distance _target < 4 ']; this addAction[""Banking Insurance ($1,000)"",{if(life_atmcash > 1000) then {life_has_insurance = true; life_atmcash = life_atmcash - 1000};},"""",0,false,false,"""",'!life_has_insurance'];";
+			init="this enableSimulation false; this allowDamage false; this addAction[""<t color='#ADFF2F'>Bankomat</t>"",life_fnc_atmMenu,"""",0,FALSE,FALSE,"""",' vehicle player == player && player distance _target < 4 ']; this addAction[""Banking Insurance ($1,000)"",{if(life_atmcash > 1000) then {life_has_insurance = true; life_atmcash = life_atmcash - 1000};},"""",0,false,false,"""",'!life_has_insurance'];";
 		};
 		class Item405
 		{
@@ -7551,7 +7551,7 @@ class Mission
 			side="EMPTY";
 			vehicle="Land_Atm_02_F";
 			skill=0.60000002;
-			init="this enableSimulation false; this allowDamage false; this addAction[""<t color='#ADFF2F'>ATM</t>"",life_fnc_atmMenu,"""",0,FALSE,FALSE,"""",' vehicle player == player && player distance _target < 4 ']; this addAction[""Banking Insurance ($1,000)"",{if(life_atmcash > 1000) then {life_has_insurance = true; life_atmcash = life_atmcash - 1000};},"""",0,false,false,"""",'!life_has_insurance'];";
+			init="this enableSimulation false; this allowDamage false; this addAction[""<t color='#ADFF2F'>Bankomat</t>"",life_fnc_atmMenu,"""",0,FALSE,FALSE,"""",' vehicle player == player && player distance _target < 4 ']; this addAction[""Banking Insurance ($1,000)"",{if(life_atmcash > 1000) then {life_has_insurance = true; life_atmcash = life_atmcash - 1000};},"""",0,false,false,"""",'!life_has_insurance'];";
 		};
 		class Item406
 		{
@@ -7561,7 +7561,7 @@ class Mission
 			side="EMPTY";
 			vehicle="Land_Atm_02_F";
 			skill=0.60000002;
-			init="this enableSimulation false; this allowDamage false; this addAction[""<t color='#ADFF2F'>ATM</t>"",life_fnc_atmMenu,"""",0,FALSE,FALSE,"""",' vehicle player == player && player distance _target < 4 ']; this addAction[""Banking Insurance ($1,000)"",{if(life_atmcash > 1000) then {life_has_insurance = true; life_atmcash = life_atmcash - 1000};},"""",0,false,false,"""",'!life_has_insurance'];";
+			init="this enableSimulation false; this allowDamage false; this addAction[""<t color='#ADFF2F'>Bankomat</t>"",life_fnc_atmMenu,"""",0,FALSE,FALSE,"""",' vehicle player == player && player distance _target < 4 ']; this addAction[""Banking Insurance ($1,000)"",{if(life_atmcash > 1000) then {life_has_insurance = true; life_atmcash = life_atmcash - 1000};},"""",0,false,false,"""",'!life_has_insurance'];";
 		};
 		class Item407
 		{
@@ -7571,7 +7571,7 @@ class Mission
 			side="EMPTY";
 			vehicle="Land_Atm_02_F";
 			skill=0.60000002;
-			init="this enableSimulation false; this allowDamage false; this addAction[""<t color='#ADFF2F'>ATM</t>"",life_fnc_atmMenu,"""",0,FALSE,FALSE,"""",' vehicle player == player && player distance _target < 4 ']; this addAction[""Banking Insurance ($1,000)"",{if(life_atmcash > 1000) then {life_has_insurance = true; life_atmcash = life_atmcash - 1000};},"""",0,false,false,"""",'!life_has_insurance'];";
+			init="this enableSimulation false; this allowDamage false; this addAction[""<t color='#ADFF2F'>Bankomat</t>"",life_fnc_atmMenu,"""",0,FALSE,FALSE,"""",' vehicle player == player && player distance _target < 4 ']; this addAction[""Banking Insurance ($1,000)"",{if(life_atmcash > 1000) then {life_has_insurance = true; life_atmcash = life_atmcash - 1000};},"""",0,false,false,"""",'!life_has_insurance'];";
 		};
 		class Item408
 		{
@@ -7581,7 +7581,7 @@ class Mission
 			side="EMPTY";
 			vehicle="Land_Atm_02_F";
 			skill=0.60000002;
-			init="this enableSimulation false; this allowDamage false; this addAction[""<t color='#ADFF2F'>ATM</t>"",life_fnc_atmMenu,"""",0,FALSE,FALSE,"""",' vehicle player == player && player distance _target < 4 ']; this addAction[""Banking Insurance ($1,000)"",{if(life_atmcash > 1000) then {life_has_insurance = true; life_atmcash = life_atmcash - 1000};},"""",0,false,false,"""",'!life_has_insurance'];";
+			init="this enableSimulation false; this allowDamage false; this addAction[""<t color='#ADFF2F'>Bankomat</t>"",life_fnc_atmMenu,"""",0,FALSE,FALSE,"""",' vehicle player == player && player distance _target < 4 ']; this addAction[""Banking Insurance ($1,000)"",{if(life_atmcash > 1000) then {life_has_insurance = true; life_atmcash = life_atmcash - 1000};},"""",0,false,false,"""",'!life_has_insurance'];";
 		};
 		class Item409
 		{
@@ -7591,7 +7591,7 @@ class Mission
 			side="EMPTY";
 			vehicle="Land_Atm_02_F";
 			skill=0.60000002;
-			init="this enableSimulation false; this allowDamage false; this addAction[""<t color='#ADFF2F'>ATM</t>"",life_fnc_atmMenu,"""",0,FALSE,FALSE,"""",' vehicle player == player && player distance _target < 4 ']; this addAction[""Banking Insurance ($1,000)"",{if(life_atmcash > 1000) then {life_has_insurance = true; life_atmcash = life_atmcash - 1000};},"""",0,false,false,"""",'!life_has_insurance'];";
+			init="this enableSimulation false; this allowDamage false; this addAction[""<t color='#ADFF2F'>Bankomat</t>"",life_fnc_atmMenu,"""",0,FALSE,FALSE,"""",' vehicle player == player && player distance _target < 4 ']; this addAction[""Banking Insurance ($1,000)"",{if(life_atmcash > 1000) then {life_has_insurance = true; life_atmcash = life_atmcash - 1000};},"""",0,false,false,"""",'!life_has_insurance'];";
 		};
 		class Item410
 		{
@@ -7601,7 +7601,7 @@ class Mission
 			side="EMPTY";
 			vehicle="Land_Atm_02_F";
 			skill=0.60000002;
-			init="this enableSimulation false; this allowDamage false; this addAction[""<t color='#ADFF2F'>ATM</t>"",life_fnc_atmMenu,"""",0,FALSE,FALSE,"""",' vehicle player == player && player distance _target < 4 ']; this addAction[""Banking Insurance ($1,000)"",{if(life_atmcash > 1000) then {life_has_insurance = true; life_atmcash = life_atmcash - 1000};},"""",0,false,false,"""",'!life_has_insurance'];";
+			init="this enableSimulation false; this allowDamage false; this addAction[""<t color='#ADFF2F'>Bankomat</t>"",life_fnc_atmMenu,"""",0,FALSE,FALSE,"""",' vehicle player == player && player distance _target < 4 ']; this addAction[""Banking Insurance ($1,000)"",{if(life_atmcash > 1000) then {life_has_insurance = true; life_atmcash = life_atmcash - 1000};},"""",0,false,false,"""",'!life_has_insurance'];";
 		};
 		class Item411
 		{
@@ -8253,7 +8253,7 @@ class Mission
 			side="EMPTY";
 			vehicle="Land_Atm_02_F";
 			skill=0.60000002;
-			init="this enableSimulation false; this allowDamage false; this addAction[""<t color='#ADFF2F'>ATM</t>"",life_fnc_atmMenu,"""",0,FALSE,FALSE,"""",' vehicle player == player && player distance _target < 4 ']; this addAction[""Banking Insurance ($1,000)"",{if(life_atmcash > 1000) then {life_has_insurance = true; life_atmcash = life_atmcash - 1000};},"""",0,false,false,"""",'!life_has_insurance'];";
+			init="this enableSimulation false; this allowDamage false; this addAction[""<t color='#ADFF2F'>Bankomat</t>"",life_fnc_atmMenu,"""",0,FALSE,FALSE,"""",' vehicle player == player && player distance _target < 4 ']; this addAction[""Banking Insurance ($1,000)"",{if(life_atmcash > 1000) then {life_has_insurance = true; life_atmcash = life_atmcash - 1000};},"""",0,false,false,"""",'!life_has_insurance'];";
 		};
 		class Item471
 		{
@@ -8263,7 +8263,7 @@ class Mission
 			side="EMPTY";
 			vehicle="Land_Atm_02_F";
 			skill=0.60000002;
-			init="this enableSimulation false; this allowDamage false; this addAction[""<t color='#ADFF2F'>ATM</t>"",life_fnc_atmMenu,"""",0,FALSE,FALSE,"""",' vehicle player == player && player distance _target < 4 ']; this addAction[""Banking Insurance ($1,000)"",{if(life_atmcash > 1000) then {life_has_insurance = true; life_atmcash = life_atmcash - 1000};},"""",0,false,false,"""",'!life_has_insurance'];";
+			init="this enableSimulation false; this allowDamage false; this addAction[""<t color='#ADFF2F'>Bankomat</t>"",life_fnc_atmMenu,"""",0,FALSE,FALSE,"""",' vehicle player == player && player distance _target < 4 ']; this addAction[""Banking Insurance ($1,000)"",{if(life_atmcash > 1000) then {life_has_insurance = true; life_atmcash = life_atmcash - 1000};},"""",0,false,false,"""",'!life_has_insurance'];";
 		};
 		class Item472
 		{
@@ -8273,7 +8273,7 @@ class Mission
 			side="EMPTY";
 			vehicle="Land_Atm_02_F";
 			skill=0.60000002;
-			init="this enableSimulation false; this allowDamage false; this addAction[""<t color='#ADFF2F'>ATM</t>"",life_fnc_atmMenu,"""",0,FALSE,FALSE,"""",' vehicle player == player && player distance _target < 4 ']; this addAction[""Banking Insurance ($1,000)"",{if(life_atmcash > 1000) then {life_has_insurance = true; life_atmcash = life_atmcash - 1000};},"""",0,false,false,"""",'!life_has_insurance'];";
+			init="this enableSimulation false; this allowDamage false; this addAction[""<t color='#ADFF2F'>Bankomat</t>"",life_fnc_atmMenu,"""",0,FALSE,FALSE,"""",' vehicle player == player && player distance _target < 4 ']; this addAction[""Banking Insurance ($1,000)"",{if(life_atmcash > 1000) then {life_has_insurance = true; life_atmcash = life_atmcash - 1000};},"""",0,false,false,"""",'!life_has_insurance'];";
 		};
 	};
 	class Markers
@@ -8301,7 +8301,7 @@ class Mission
 		{
 			position[]={3400.7595,1.8830158,12899.346};
 			name="fish_market_1";
-			text="Fish Market";
+			text="Fischmarkt";
 			type="mil_box";
 			colorName="ColorGreen";
 		};
@@ -8309,7 +8309,7 @@ class Mission
 		{
 			position[]={3765.8088,18.85,12990.187};
 			name="hospital_marker";
-			text="Hospital";
+			text="Krankenhaus";
 			type="loc_Hospital";
 			colorName="ColorRed";
 		};
@@ -8348,7 +8348,7 @@ class Mission
 		{
 			position[]={13820.758,19.826002,18969.209};
 			name="cop_spawn_3";
-			text="Police Station";
+			text="Polizeistation";
 			type="mil_box";
 			colorName="ColorBLUFOR";
 		};
@@ -8356,7 +8356,7 @@ class Mission
 		{
 			position[]={15194.059,17.913683,17313.797};
 			name="cop_spawn_4";
-			text="Police Air HQ";
+			text="Polizei-Luft-HQ;
 			type="mil_box";
 			colorName="ColorBLUFOR";
 		};
@@ -8364,7 +8364,7 @@ class Mission
 		{
 			position[]={19856.078,62.778057,17895.051};
 			name="iron_1";
-			text="Iron Mine";
+			text="Eisenmine";
 			type="mil_triangle";
 			colorName="ColorBrown";
 		};
@@ -8372,7 +8372,7 @@ class Mission
 		{
 			position[]={23823.781,3.1900001,18601.668};
 			name="salt_1";
-			text="Salt Mine";
+			text="Salzmine";
 			type="mil_triangle";
 			colorName="ColorBrown";
 		};
@@ -8380,7 +8380,7 @@ class Mission
 		{
 			position[]={27361.367,6.3006272,24465.764};
 			name="Salt";
-			text="Salt Processing";
+			text="Salzverarbeitung";
 			type="mil_box";
 			colorName="ColorBrown";
 		};
@@ -8388,7 +8388,7 @@ class Mission
 		{
 			position[]={22150.52,3.150569,14475.64};
 			name="Correctional Facility";
-			text="Altis Corrections";
+			text="Altis Staatsgefängnis";
 			type="mil_dot";
 			colorName="Color4_FD_F";
 		};
@@ -8396,7 +8396,7 @@ class Mission
 		{
 			position[]={3269.3455,2.1793349,12967.998};
 			name="police_hq_1";
-			text="Police HQ";
+			text="Polizei HQ";
 			type="mil_box";
 			colorName="Color4_FD_F";
 		};
@@ -8404,7 +8404,7 @@ class Mission
 		{
 			position[]={16589.234,11,12763.845};
 			name="police_hq_2";
-			text="Police Station";
+			text="Polizeistation";
 			type="mil_box";
 			colorName="Color4_FD_F";
 		};
@@ -8412,7 +8412,7 @@ class Mission
 		{
 			position[]={14276.118,4.1247582,13044.42};
 			name="CG";
-			text="Coast Guard ";
+			text="Küstenwache ";
 			type="Empty";
 			colorName="Color4_FD_F";
 		};
@@ -8420,7 +8420,7 @@ class Mission
 		{
 			position[]={9188.2607,14.383561,21670.799};
 			name="Rebelop";
-			text="Rebel Outpost";
+			text="Rebellenaußenposten";
 			type="mil_triangle";
 			colorName="Color1_FD_F";
 		};
@@ -8428,7 +8428,7 @@ class Mission
 		{
 			position[]={14676.569,17.91,16773.182};
 			name="airshop";
-			text="Air Shop";
+			text="Flugzeughändler";
 			type="mil_dot";
 			colorName="Color1_FD_F";
 		};
@@ -8436,7 +8436,7 @@ class Mission
 		{
 			position[]={3763.6846,34.367668,12372.792};
 			name="civ_truck_shop1";
-			text="Truck Shop";
+			text="LKW-Händler";
 			type="c_car";
 			colorName="ColorBlue";
 		};
@@ -8444,7 +8444,7 @@ class Mission
 		{
 			position[]={18314.24,47.468193,15501.579};
 			name="Charkia Freight Yard";
-			text="Charkia Freight Yard";
+			text="Charkia Frachthafen";
 			type="mil_dot";
 			colorName="ColorUnknown";
 		};
@@ -8452,7 +8452,7 @@ class Mission
 		{
 			position[]={6263.5244,43,16265.374};
 			name="OilP";
-			text="Oil Processing";
+			text="Ölraffinerie";
 			type="mil_box";
 			colorName="ColorBrown";
 		};
@@ -8460,7 +8460,7 @@ class Mission
 		{
 			position[]={10232.705,95.303696,14854.982};
 			name="iron_processing";
-			text="Iron Processing";
+			text="Eisenverarbeitung";
 			type="mil_box";
 			colorName="ColorBrown";
 		};
@@ -8468,7 +8468,7 @@ class Mission
 		{
 			position[]={8090.8218,77.531647,22620.234};
 			name="sand_1";
-			text="Sand Mine";
+			text="Sandmine";
 			type="mil_triangle";
 			colorName="ColorBrown";
 		};
@@ -8476,7 +8476,7 @@ class Mission
 		{
 			position[]={8959.7256,69.222336,15507.252};
 			name="chop_shop_1";
-			text="Chop Shop";
+			text="Schrotthändler";
 			type="o_armor";
 			colorName="Color1_FD_F";
 		};
@@ -8484,7 +8484,7 @@ class Mission
 		{
 			position[]={8440.3506,49.484863,12756.805};
 			name="cocaine processing";
-			text="Cocaine Processing";
+			text="Kokainverarbeitung";
 			type="mil_dot";
 			colorName="Color1_FD_F";
 		};
@@ -8492,7 +8492,7 @@ class Mission
 		{
 			position[]={167.63799,0.021615377,14709.002};
 			name="truck_1";
-			text="Truck Shop";
+			text="LKW-Händler";
 			type="c_car";
 			colorName="ColorBlack";
 		};
@@ -8500,7 +8500,7 @@ class Mission
 		{
 			position[]={4412.5562,37.095924,12605.266};
 			name="lead_1";
-			text="Copper Mine";
+			text="Kupfermine";
 			type="mil_triangle";
 			colorName="ColorBrown";
 		};
@@ -8508,7 +8508,7 @@ class Mission
 		{
 			position[]={167.56963,0.078673914,14509.83};
 			name="atm";
-			text="ATM";
+			text="Bankomat";
 			type="loc_Tourism";
 			colorName="ColorGreen";
 		};
@@ -8516,7 +8516,7 @@ class Mission
 		{
 			position[]={163.73174,0.012321081,14411.306};
 			name="lbank";
-			text="Local Bank";
+			text="Lokale Bank";
 			type="loc_Tourism";
 			colorName="ColorBLUFOR";
 		};
@@ -8524,7 +8524,7 @@ class Mission
 		{
 			position[]={169.09892,-0.026115492,14814.396};
 			name="Carshop";
-			text="Car Shop";
+			text="Autohändler";
 			type="c_car";
 			colorName="ColorWhite";
 		};
@@ -8532,7 +8532,7 @@ class Mission
 		{
 			position[]={169.36064,0.027309759,14608.475};
 			name="Hospital_1";
-			text="Hospital/Clinic";
+			text="Krankenhaus/Klinik";
 			type="loc_Hospital";
 			colorName="ColorRed";
 		};
@@ -8547,7 +8547,7 @@ class Mission
 		{
 			position[]={13928.122,24.577969,22310.945};
 			name="diamond_1";
-			text="Diamond Mine";
+			text="Diamantmine";
 			type="mil_triangle";
 			colorName="ColorBrown";
 		};
@@ -8563,7 +8563,7 @@ class Mission
 		{
 			position[]={3479.1758,2.6362305,13231.096};
 			name="Gen";
-			text="General Store";
+			text="Gemischtwarenladen";
 			type="c_unknown";
 			colorName="ColorGreen";
 		};
@@ -8571,7 +8571,7 @@ class Mission
 		{
 			position[]={162.51799,-0.069760568,14300.679};
 			name="Gen_1";
-			text="Civilian Shops";
+			text="Zivilladen";
 			type="c_unknown";
 			colorName="ColorGreen";
 		};
@@ -8579,7 +8579,7 @@ class Mission
 		{
 			position[]={161.06902,0.056310706,14202.72};
 			name="boat_1";
-			text="Boat Shop";
+			text="Bootshändler";
 			type="c_ship";
 			colorName="ColorWhite";
 		};
@@ -8601,7 +8601,7 @@ class Mission
 		{
 			position[]={3364.3098,4.8093276,13064.118};
 			name="Gen_3";
-			text="Bruce's Outback Outfits";
+			text="Bruce's Geile Kleidung";
 			type="c_unknown";
 			colorName="ColorGreen";
 		};
@@ -8623,7 +8623,7 @@ class Mission
 		{
 			position[]={4187.0205,36.297176,13106.365};
 			name="apple_1";
-			text="Apple Field";
+			text="Apfelplantage";
 			type="loc_Tree";
 			colorName="Color3_FD_F";
 		};
@@ -8631,7 +8631,7 @@ class Mission
 		{
 			position[]={25982.121,15.485652,20889.566};
 			name="apple_2";
-			text="Apple Field";
+			text="Apfelplantage";
 			type="loc_Tree";
 			colorName="Color3_FD_F";
 		};
@@ -8639,7 +8639,7 @@ class Mission
 		{
 			position[]={4345.1636,33.150127,13982.917};
 			name="peaches_2";
-			text="Peaches Field";
+			text="Pfirsichplantage";
 			type="loc_Tree";
 			colorName="Color3_FD_F";
 		};
@@ -8647,7 +8647,7 @@ class Mission
 		{
 			position[]={10800.928,32.462917,13238.061};
 			name="peaches_1";
-			text="Peaches Field";
+			text="Pfirsichplantage";
 			type="loc_Tree";
 			colorName="Color3_FD_F";
 		};
@@ -8655,7 +8655,7 @@ class Mission
 		{
 			position[]={3486.2664,7.7271852,12951.688};
 			name="Gen_3_1";
-			text="Market";
+			text="Markt";
 			type="c_unknown";
 			colorName="ColorGreen";
 		};
@@ -8663,7 +8663,7 @@ class Mission
 		{
 			position[]={10022.424,14.231085,12550.737};
 			name="apple_3";
-			text="Apple Field";
+			text="Apfelplantage";
 			type="loc_Tree";
 			colorName="Color3_FD_F";
 		};
@@ -8671,7 +8671,7 @@ class Mission
 		{
 			position[]={13618,16.567661,18105.947};
 			name="apple_4";
-			text="Apple Field";
+			text="Apfelplantage";
 			type="loc_Tree";
 			colorName="Color3_FD_F";
 		};
@@ -8679,7 +8679,7 @@ class Mission
 		{
 			position[]={13120.37,39.285686,19673.133};
 			name="peaches_3";
-			text="Peach Field";
+			text="Pfirsichplantage";
 			type="loc_Tree";
 			colorName="Color3_FD_F";
 		};
@@ -8687,7 +8687,7 @@ class Mission
 		{
 			position[]={14418.972,18.719999,16244.317};
 			name="air_serv_1";
-			text="Air Service Station";
+			text="Flugzeugreparatur";
 			type="respawn_air";
 			colorName="Color1_FD_F";
 		};
@@ -8695,7 +8695,7 @@ class Mission
 		{
 			position[]={3269.3455,2.1793349,12967.998};
 			name="Police HQ_1";
-			text="Police HQ";
+			text="Polizei HQ";
 			type="mil_box";
 			colorName="Color4_FD_F";
 		};
@@ -8711,7 +8711,7 @@ class Mission
 		{
 			position[]={18314.24,47.468193,15501.579};
 			name="Charkia Freight Yard_1";
-			text="Charkia Freight Yard";
+			text="Charkia Frachthafen";
 			type="mil_dot";
 			colorName="ColorUnknown";
 		};
@@ -8719,7 +8719,7 @@ class Mission
 		{
 			position[]={12648.316,34.272289,16315.928};
 			name="Lakka Freight Yard_1";
-			text="Lakka Freight Yard";
+			text="Lakka Frachthafen";
 			type="mil_dot";
 			colorName="ColorUnknown";
 		};
@@ -8727,7 +8727,7 @@ class Mission
 		{
 			position[]={3669.2141,10.440954,13108.464};
 			name="car1_1";
-			text="Car Shop";
+			text="Autohändler";
 			type="c_car";
 			colorName="ColorWhite";
 		};
@@ -8743,7 +8743,7 @@ class Mission
 		{
 			position[]={3041.5544,2.0197022,12612.536};
 			name="boat_2";
-			text="Boat Shop";
+			text="Bootshändler";
 			type="c_ship";
 			colorName="ColorWhite";
 		};
@@ -8751,7 +8751,7 @@ class Mission
 		{
 			position[]={3457.7097,5.4230289,13108.353};
 			name="license_shop";
-			text="DMV";
+			text="Fahrschulbüro";
 			type="c_unknown";
 			colorName="ColorBlue";
 			angle=-1.9030067;
@@ -8760,7 +8760,7 @@ class Mission
 		{
 			position[]={3914.5459,16.270481,13591.836};
 			name="dp_missions";
-			text="Delivery Missions";
+			text="Liefermissionen";
 			type="mil_box";
 			colorName="ColorYellow";
 		};
@@ -8768,7 +8768,7 @@ class Mission
 		{
 			position[]={3427.2068,2.5439744,12735.082};
 			name="dive_shop";
-			text="Diving Shop";
+			text="Taucherbedarf";
 			type="mil_box";
 			colorName="ColorOrange";
 			angle=-144.45552;
@@ -8777,7 +8777,7 @@ class Mission
 		{
 			position[]={3492.7932,19.49818,14145.842};
 			name="Dealer_1";
-			text="Drug Dealer";
+			text="Jesse Pinkman";
 			type="mil_dot";
 			colorName="ColorOrange";
 		};
@@ -8792,7 +8792,7 @@ class Mission
 		{
 			position[]={8637.5557,180.94052,18280.637};
 			name="dp_1_1";
-			text="DP 3";
+			text="Lieferpunkt 3";
 			type="mil_box";
 			colorName="ColorYellow";
 		};
@@ -8800,7 +8800,7 @@ class Mission
 		{
 			position[]={14193.35,29.500216,18714.625};
 			name="dp_1_2";
-			text="DP 7";
+			text="Lieferpunkt 7";
 			type="mil_box";
 			colorName="ColorYellow";
 		};
@@ -8808,7 +8808,7 @@ class Mission
 		{
 			position[]={4657.2241,293.14618,21402.947};
 			name="dp_1_3";
-			text="DP 4";
+			text="Lieferpunkt 4";
 			type="mil_box";
 			colorName="ColorYellow";
 		};
@@ -8816,7 +8816,7 @@ class Mission
 		{
 			position[]={25638.574,19.618872,21308.701};
 			name="dp_1_4";
-			text="DP 16";
+			text="Lieferpunkt 16";
 			type="mil_box";
 			colorName="ColorYellow";
 		};
@@ -8824,7 +8824,7 @@ class Mission
 		{
 			position[]={26975.738,20.035761,23262.752};
 			name="dp_1_5";
-			text="DP 17";
+			text="Lieferpunkt 17";
 			type="mil_box";
 			colorName="ColorYellow";
 			angle=-140.186;
@@ -8833,7 +8833,7 @@ class Mission
 		{
 			position[]={18065.555,22.422867,15194.638};
 			name="dp_1_6";
-			text="DP 19";
+			text="Lieferpunkt 19";
 			type="mil_box";
 			colorName="ColorYellow";
 		};
@@ -8841,7 +8841,7 @@ class Mission
 		{
 			position[]={16805.742,23.940353,12662.737};
 			name="dp_1_7";
-			text="DP 18";
+			text="Lieferpunkt 18";
 			type="mil_box";
 			colorName="ColorYellow";
 			angle=165.897;
@@ -8850,7 +8850,7 @@ class Mission
 		{
 			position[]={18813.75,31.821898,16642.586};
 			name="dp_1_8";
-			text="DP 13";
+			text="Lieferpunkt 13";
 			type="mil_box";
 			colorName="ColorYellow";
 			angle=43.241501;
@@ -8859,7 +8859,7 @@ class Mission
 		{
 			position[]={12310.653,24.094952,15700.001};
 			name="dp_1_9";
-			text="DP 12";
+			text="Lieferpunkt 12";
 			type="mil_box";
 			colorName="ColorYellow";
 		};
@@ -8867,7 +8867,7 @@ class Mission
 		{
 			position[]={20946.139,43.178474,16965.078};
 			name="dp_1_10";
-			text="DP 14";
+			text="Lieferpunkt 14";
 			type="mil_box";
 			colorName="ColorYellow";
 		};
@@ -8875,7 +8875,7 @@ class Mission
 		{
 			position[]={21382.348,21.960739,16411.709};
 			name="dp_1_11";
-			text="DP 15";
+			text="Lieferpunkt 15";
 			type="mil_box";
 			colorName="ColorYellow";
 			angle=-61.743599;
@@ -8884,7 +8884,7 @@ class Mission
 		{
 			position[]={19408.297,40.008781,13218.935};
 			name="dp_1_12";
-			text="DP 21";
+			text="Lieferpunkt 21";
 			type="mil_box";
 			colorName="ColorYellow";
 		};
@@ -8892,7 +8892,7 @@ class Mission
 		{
 			position[]={19969.447,59.631565,11420.619};
 			name="dp_1_13";
-			text="DP 22";
+			text="Lieferpunkt 22";
 			type="mil_box";
 			colorName="ColorYellow";
 			angle=-62.148312;
@@ -8901,7 +8901,7 @@ class Mission
 		{
 			position[]={21654.904,16.099901,7537.6016};
 			name="dp_1_14";
-			text="DP 24";
+			text="Lieferpunkt 24";
 			type="mil_box";
 			colorName="ColorYellow";
 			angle=144.67558;
@@ -8910,7 +8910,7 @@ class Mission
 		{
 			position[]={20488.617,32.754906,8805.3506};
 			name="dp_1_15";
-			text="DP 23";
+			text="Lieferpunkt 23";
 			type="mil_box";
 			colorName="ColorYellow";
 			angle=-44.569088;
@@ -8919,7 +8919,7 @@ class Mission
 		{
 			position[]={10393.356,123.94481,19064.67};
 			name="dp_1_16";
-			text="DP 5";
+			text="Lieferpunkt 5";
 			type="mil_box";
 			colorName="ColorYellow";
 		};
@@ -8927,7 +8927,7 @@ class Mission
 		{
 			position[]={12576.474,15.308428,14367.098};
 			name="dp_1_17";
-			text="DP 10";
+			text="Lieferpunkt 10";
 			type="mil_box";
 			colorName="ColorYellow";
 		};
@@ -8935,7 +8935,7 @@ class Mission
 		{
 			position[]={9190.6123,121.27175,15831.551};
 			name="dp_1_19";
-			text="DP 11";
+			text="Lieferpunkt 11";
 			type="mil_box";
 			colorName="ColorYellow";
 		};
@@ -8943,7 +8943,7 @@ class Mission
 		{
 			position[]={9025.9814,23.697897,11975.625};
 			name="dp_1_20";
-			text="DP 9";
+			text="Lieferpunkt 9";
 			type="mil_box";
 			colorName="ColorYellow";
 			angle=86.109383;
@@ -8952,7 +8952,7 @@ class Mission
 		{
 			position[]={5097.6162,50.34985,11267.257};
 			name="dp_1_18";
-			text="DP 8";
+			text="Lieferpunkt 8";
 			type="mil_box";
 			colorName="ColorYellow";
 			angle=122.0182;
@@ -8961,7 +8961,7 @@ class Mission
 		{
 			position[]={14563.34,45.28418,20771.504};
 			name="dp_1_21";
-			text="DP 6";
+			text="Lieferpunkt 6";
 			type="mil_box";
 			colorName="ColorYellow";
 		};
@@ -8969,7 +8969,7 @@ class Mission
 		{
 			position[]={4138.9399,52.056519,11766.21};
 			name="dp_1_18_1";
-			text="DP 1";
+			text="Lieferpunkt 1";
 			type="mil_box";
 			colorName="ColorYellow";
 		};
@@ -8977,7 +8977,7 @@ class Mission
 		{
 			position[]={4932.7715,77.810303,16146.252};
 			name="dp_1_18_2";
-			text="DP 2";
+			text="Lieferpunkt 2";
 			type="mil_box";
 			colorName="ColorYellow";
 		};
@@ -8985,7 +8985,7 @@ class Mission
 		{
 			position[]={20783.684,36.263039,6768.6069};
 			name="dp_1_14_1";
-			text="DP 25";
+			text="Lieferpunkt 25";
 			type="mil_box";
 			colorName="ColorYellow";
 			angle=-25.325846;
@@ -8994,7 +8994,7 @@ class Mission
 		{
 			position[]={20884.641,2.7453954,14624.866};
 			name="Dealer_1_3";
-			text="Drug Dealer";
+			text="Heisenberg";
 			type="mil_dot";
 			colorName="ColorOrange";
 		};
@@ -9002,7 +9002,7 @@ class Mission
 		{
 			position[]={14327.465,18.488745,17427.523};
 			name="Dealer_1_4";
-			text="Drug Dealer";
+			text="Gustavo Fring";
 			type="mil_dot";
 			colorName="ColorOrange";
 			angle=-57.933056;
@@ -9011,7 +9011,7 @@ class Mission
 		{
 			position[]={5323.1001,19.630493,14530.668};
 			name="Charkia Freight Yard_1";
-			text="Aggelochori Freight Yard";
+			text="Aggelochori Frachthafen";
 			type="mil_dot";
 			colorName="ColorUnknown";
 			angle=154.474;
@@ -9020,7 +9020,7 @@ class Mission
 		{
 			position[]={3246.1287,6.5118713,12458.554};
 			name="Kavala Freight Yard_1_1";
-			text="Kavala Freight Yard";
+			text="Kavala Frachthafen";
 			type="mil_dot";
 			colorName="ColorUnknown";
 			angle=-10.0823;
@@ -9029,7 +9029,7 @@ class Mission
 		{
 			position[]={9724.5264,14.65623,12580.326};
 			name="Zaros Freight Yard_1_1_1";
-			text="Zaros Freight Yard";
+			text="Zaros Frachthafen";
 			type="mil_dot";
 			colorName="ColorUnknown";
 			angle=-33.9603;
@@ -9038,7 +9038,7 @@ class Mission
 		{
 			position[]={12808.013,3.9772205,14294.918};
 			name="Kavala Freight Yard_1_1_1";
-			text="Neochori Freight Yard";
+			text="Neochori Frachthafen";
 			type="mil_dot";
 			colorName="ColorUnknown";
 			angle=-119.016;
@@ -9047,7 +9047,7 @@ class Mission
 		{
 			position[]={16673.135,3.1362622,12295.771};
 			name="Kavala Freight Yard_1_1_1_1";
-			text="Pyrgos Freight Yard";
+			text="Pyrgos Frachthafen";
 			type="mil_dot";
 			colorName="ColorUnknown";
 			angle=-286.052;
@@ -9056,7 +9056,7 @@ class Mission
 		{
 			position[]={25943.723,17.185471,21374.17};
 			name="Kavala Freight Yard_1_1_1_1_1";
-			text="Sofia Freight Yard";
+			text="Sofia Frachthafen";
 			type="mil_dot";
 			colorName="ColorUnknown";
 			angle=-415.91299;
@@ -9065,7 +9065,7 @@ class Mission
 		{
 			position[]={21107.266,31.833105,16937.344};
 			name="Kavala Freight Yard_1_1_1_1_1_1";
-			text="Paros Freight Yard";
+			text="Paros Frachthafen";
 			type="mil_dot";
 			colorName="ColorUnknown";
 			angle=-415.91299;
@@ -9074,7 +9074,7 @@ class Mission
 		{
 			position[]={20441.414,40.392452,11458.176};
 			name="Kavala Freight Yard_1_1_1_1_1_2";
-			text="Chalkeia Freight Yard";
+			text="Chalkeia Frachthafen";
 			type="mil_dot";
 			colorName="ColorUnknown";
 			angle=-415.91299;
@@ -9083,7 +9083,7 @@ class Mission
 		{
 			position[]={25831.131,20.912157,21446.154};
 			name="car1_1";
-			text="Car Shop";
+			text="Autohändler";
 			type="c_car";
 			colorName="ColorWhite";
 		};
@@ -9091,7 +9091,7 @@ class Mission
 		{
 			position[]={14344.174,37.080429,18952.045};
 			name="dimond_1";
-			text="Diamond Processing";
+			text="Diamantschleifer";
 			type="mil_triangle";
 			colorName="ColorBrown";
 		};
@@ -9099,7 +9099,7 @@ class Mission
 		{
 			position[]={9186.0107,27.468599,13990.347};
 			name="oil_2";
-			text="Oil Field";
+			text="Ölfeld";
 			type="mil_triangle";
 			colorName="ColorBrown";
 		};
@@ -9107,7 +9107,7 @@ class Mission
 		{
 			position[]={9757.7891,231.07008,19445.281};
 			name="oil_1";
-			text="Oil Field";
+			text="Ölfeld";
 			type="mil_triangle";
 			colorName="ColorBrown";
 		};
@@ -9115,7 +9115,7 @@ class Mission
 		{
 			position[]={11556.398,77.697838,7048.0737};
 			name="weed_1";
-			text="Weed Field";
+			text="Hanfplantage";
 			type="mil_dot";
 			colorName="Color1_FD_F";
 		};
@@ -9123,7 +9123,7 @@ class Mission
 		{
 			position[]={10390.828,27.723936,13200.983};
 			name="Weed_p_1";
-			text="Weed Processing";
+			text="Hanfverarbeitung";
 			type="mil_dot";
 			colorName="Color1_FD_F";
 		};
@@ -9185,7 +9185,7 @@ class Mission
 		{
 			position[]={14026.882,26.953672,18704.109};
 			name="license_shop_1";
-			text="DMV";
+			text="Fahrschulbüro";
 			type="c_unknown";
 			colorName="ColorBlue";
 			angle=-1.9030067;
@@ -9208,7 +9208,7 @@ class Mission
 		{
 			position[]={26847.824,24.010233,24593.961};
 			name="airshop_1";
-			text="Air Shop";
+			text="Flugzeughändler";
 			type="mil_dot";
 			colorName="Color1_FD_F";
 		};
@@ -9237,7 +9237,7 @@ class Mission
 		{
 			position[]={28307.711,14.887112,25769.699};
 			name="dp_1_15_1";
-			text="DP 20";
+			text="Lieferpunkt 20";
 			type="mil_box";
 			colorName="ColorYellow";
 			angle=-89.313202;
@@ -9253,7 +9253,7 @@ class Mission
 		{
 			position[]={3002.437,0.019021351,12651.198};
 			name="civ_ship_1";
-			text="Boat Spawn";
+			text="Bootsspawn";
 			type="loc_Quay";
 			colorName="ColorOrange";
 		};
@@ -9261,7 +9261,7 @@ class Mission
 		{
 			position[]={9085.4102,20.793713,12038.007};
 			name="Gen_3_1_1";
-			text="Market";
+			text="Markt";
 			type="c_unknown";
 			colorName="ColorGreen";
 		};
@@ -9269,7 +9269,7 @@ class Mission
 		{
 			position[]={8956.4238,27.330736,11999.08};
 			name="Gen_3_3";
-			text="Bruce's Outback Outfits";
+			text="Bruce's Geile Kleidung";
 			type="c_unknown";
 			colorName="ColorGreen";
 		};
@@ -9277,7 +9277,7 @@ class Mission
 		{
 			position[]={25665.254,19.308283,21296.332};
 			name="Gen_3_4";
-			text="Bruce's Outback Outfits";
+			text="Bruce's Geile Kleidung";
 			type="c_unknown";
 			colorName="ColorGreen";
 		};
@@ -9285,7 +9285,7 @@ class Mission
 		{
 			position[]={25573.17,19.70323,21312.16};
 			name="Gen_3_1_1_1";
-			text="Market";
+			text="Markt";
 			type="c_unknown";
 			colorName="ColorGreen";
 		};
@@ -9293,7 +9293,7 @@ class Mission
 		{
 			position[]={14041.689,24.368345,18787.1};
 			name="Gen_3_1_1_2";
-			text="Market";
+			text="Markt";
 			type="c_unknown";
 			colorName="ColorGreen";
 		};
@@ -9301,7 +9301,7 @@ class Mission
 		{
 			position[]={14074.721,23.343645,18559.061};
 			name="Gen_3_4_1";
-			text="Bruce's Outback Outfits";
+			text="Bruce's Geile Kleidung";
 			type="c_unknown";
 			colorName="ColorGreen";
 		};
@@ -9309,7 +9309,7 @@ class Mission
 		{
 			position[]={9530.3555,127.03247,15077.41};
 			name="copper_mine_1";
-			text="Copper Processing";
+			text="Kupferverarbeitung";
 			type="mil_box";
 			colorName="ColorBrown";
 		};
@@ -9317,7 +9317,7 @@ class Mission
 		{
 			position[]={25750.627,20.775032,21366.285};
 			name="license_shop_2";
-			text="DMV";
+			text="Fahrschulbüro";
 			type="c_unknown";
 			colorName="ColorBlue";
 			angle=-1.9030067;
@@ -9326,7 +9326,7 @@ class Mission
 		{
 			position[]={16876.307,19.12689,12710.189};
 			name="Gen_2";
-			text="General Store";
+			text="Gemischtwarenladen";
 			type="c_unknown";
 			colorName="ColorGreen";
 		};
@@ -9334,7 +9334,7 @@ class Mission
 		{
 			position[]={25754.789,20.885283,21385.201};
 			name="Gen_2_1";
-			text="General Store";
+			text="Gemischtwarenladen";
 			type="c_unknown";
 			colorName="ColorGreen";
 			angle=-0.67126209;
@@ -9343,7 +9343,7 @@ class Mission
 		{
 			position[]={16995.186,15.885057,12661.559};
 			name="license_shop_2_1";
-			text="DMV";
+			text="Fahrschulbüro";
 			type="c_unknown";
 			colorName="ColorBlue";
 			angle=30.320122;
@@ -9352,7 +9352,7 @@ class Mission
 		{
 			position[]={5188.1885,217.79607,20872.66};
 			name="cocaine_1";
-			text="Cocaine Field";
+			text="Kokainplantage";
 			type="mil_dot";
 			colorName="Color1_FD_F";
 		};
@@ -9370,7 +9370,7 @@ class Mission
 		{
 			position[]={12582.778,34.149235,16394.836};
 			name="oil_trader";
-			text="Oil Trader";
+			text="Ölhändler";
 			type="b_unknown";
 			colorName="ColorOrange";
 		};
@@ -9378,7 +9378,7 @@ class Mission
 		{
 			position[]={20695.104,4.5465231,19467.057};
 			name="oil_trader_1";
-			text="Salt Trader";
+			text="Salzhändler";
 			type="b_unknown";
 			colorName="ColorOrange";
 		};
@@ -9386,7 +9386,7 @@ class Mission
 		{
 			position[]={17869.166,2.40886,18199.828};
 			name="oil_trader_2";
-			text="Diamond Trader";
+			text="Diamanthändler";
 			type="b_unknown";
 			colorName="ColorOrange";
 			angle=0.26148701;
@@ -9395,7 +9395,7 @@ class Mission
 		{
 			position[]={4928.9746,16.186176,14576.784};
 			name="oil_trader_3";
-			text="Glass Trader";
+			text="Glashändler";
 			type="b_unknown";
 			colorName="ColorOrange";
 		};
@@ -9403,7 +9403,7 @@ class Mission
 		{
 			position[]={5327.8848,22.266685,14476.616};
 			name="oil_trader_4";
-			text="Iron / Copper Trader";
+			text="Eisen- und Kupferhändler";
 			type="b_unknown";
 			colorName="ColorOrange";
 			angle=-0.60203898;
@@ -9412,7 +9412,7 @@ class Mission
 		{
 			position[]={5379.1855,77.380905,17922.482};
 			name="dimond_1_1";
-			text="Sand Processing";
+			text="Sandverarbeitung";
 			type="mil_triangle";
 			colorName="ColorBrown";
 			angle=-80.305901;
@@ -9421,7 +9421,7 @@ class Mission
 		{
 			position[]={18157.965,26.492321,12840.584};
 			name="civ_truck_shop1_1";
-			text="Truck Shop";
+			text="LKW-Händler";
 			type="c_car";
 			colorName="ColorBlue";
 		};
@@ -9443,7 +9443,7 @@ class Mission
 		{
 			position[]={12290.406,123.8956,8899.7314};
 			name="Rebelop_1";
-			text="Rebel Outpost";
+			text="Rebellenaußenposten";
 			type="mil_triangle";
 			colorName="Color1_FD_F";
 		};
@@ -9451,7 +9451,7 @@ class Mission
 		{
 			position[]={20081.033,100.96766,6737.1904};
 			name="Rebelop_2";
-			text="Rebel Outpost";
+			text="Rebellenaußenposten";
 			type="mil_triangle";
 			colorName="Color1_FD_F";
 		};
@@ -9459,7 +9459,7 @@ class Mission
 		{
 			position[]={9326.4922,14.638341,11912.618};
 			name="gun_store_1";
-			text="Gun Store";
+			text="Waffenladen";
 			type="loc_Bunker";
 			colorName="ColorRed";
 			angle=7.2259879;
@@ -9468,7 +9468,7 @@ class Mission
 		{
 			position[]={16340.104,24.965635,17266.721};
 			name="gun_store_1_1";
-			text="Gun Store";
+			text="Waffenladen";
 			type="loc_Bunker";
 			colorName="ColorRed";
 			angle=62.195702;
@@ -9477,7 +9477,7 @@ class Mission
 		{
 			position[]={19878.146,30.042439,17011.926};
 			name="heroin_1";
-			text="Heroin Field";
+			text="Heroinplantage";
 			type="hd_dot";
 			colorName="ColorRed";
 		};
@@ -9495,7 +9495,7 @@ class Mission
 		{
 			position[]={23644.953,51.044296,21802.297};
 			name="heroin_p";
-			text="Heroin Processing";
+			text="Heroinverarbeitung";
 			type="mil_dot";
 			colorName="ColorRed";
 		};
@@ -9562,7 +9562,7 @@ class Mission
 		{
 			position[]={12682.691,1.9715809,14214.604};
 			name="boat_2_1";
-			text="Boat Shop";
+			text="Bootshändler";
 			type="c_ship";
 			colorName="ColorWhite";
 		};
@@ -9570,7 +9570,7 @@ class Mission
 		{
 			position[]={12697.163,-0.013685904,14197.867};
 			name="civ_ship_2";
-			text="Boat Spawn";
+			text="Bootsspawn";
 			type="loc_Quay";
 			colorName="ColorOrange";
 		};
@@ -9578,7 +9578,7 @@ class Mission
 		{
 			position[]={17539.715,3.019192,18943.441};
 			name="boat_2_1_1";
-			text="Boat Shop";
+			text="Bootshändler";
 			type="c_ship";
 			colorName="ColorWhite";
 		};
@@ -9586,7 +9586,7 @@ class Mission
 		{
 			position[]={17565.404,0,18927.883};
 			name="civ_ship_3";
-			text="Boat Spawn";
+			text="Bootsspawn";
 			type="loc_Quay";
 			colorName="ColorOrange";
 		};
@@ -9594,7 +9594,7 @@ class Mission
 		{
 			position[]={17014.414,15.973641,12630.738};
 			name="Gen_3_1_1_3";
-			text="Market";
+			text="Markt";
 			type="c_unknown";
 			colorName="ColorGreen";
 			angle=127.88971;
@@ -9603,7 +9603,7 @@ class Mission
 		{
 			position[]={13946.49,22.888865,18664.123};
 			name="Gen_4";
-			text="General Store";
+			text="Gemischtwarenladen";
 			type="c_unknown";
 			colorName="ColorGreen";
 		};
@@ -9626,7 +9626,7 @@ class Mission
 		{
 			position[]={23538.549,13.160051,19945.574};
 			name="cop_spawn_5";
-			text="Highway Patrol Outpost";
+			text="Highway-Wachposten";
 			type="mil_box";
 			colorName="ColorBLUFOR";
 		};
@@ -9641,7 +9641,7 @@ class Mission
 		{
 			position[]={17073.295,24.327265,11361.496};
 			name="rock_1";
-			text="Rock Quarry";
+			text="Steinbruch";
 			type="mil_box";
 			colorName="ColorBrown";
 		};
@@ -9649,7 +9649,7 @@ class Mission
 		{
 			position[]={19314.266,21.279949,16545.195};
 			name="rock_proc";
-			text="Rock Processing";
+			text="Steinverarbeitung";
 			type="mil_dot";
 			colorName="ColorBrown";
 		};
@@ -9657,7 +9657,7 @@ class Mission
 		{
 			position[]={16578.012,14.273811,15989.947};
 			name="oil_trader_3_1";
-			text="Cement Trader";
+			text="Zementhändler";
 			type="b_unknown";
 			colorName="ColorOrange";
 		};
@@ -9665,7 +9665,7 @@ class Mission
 		{
 			position[]={11849.67,4.2975636,13611.597};
 			name="dive_shop_1";
-			text="Diving Shop";
+			text="Taucherbedarf";
 			type="mil_box";
 			colorName="ColorOrange";
 			angle=-144.45552;
@@ -9684,7 +9684,7 @@ class Mission
 		{
 			position[]={13629.74,-0.0097627603,10582.689};
 			name="turtle_1_name";
-			text="Turtle Poaching";
+			text="Schildkrötenwilderei";
 			type="mil_dot";
 		};
 		class Item177
@@ -9701,7 +9701,7 @@ class Mission
 		{
 			position[]={6539.9053,0.017347729,8942.8809};
 			name="turtle_1_name_1";
-			text="Turtle Poaching";
+			text="Schildkrötenwilderei";
 			type="mil_dot";
 		};
 		class Item179
@@ -9718,14 +9718,14 @@ class Mission
 		{
 			position[]={10942.676,-0.0094533563,5199.7534};
 			name="turtle_1_name_2";
-			text="Turtle Poaching";
+			text="Schildkrötenwilderei";
 			type="mil_dot";
 		};
 		class Item181
 		{
 			position[]={10246.375,5.3159304,11272.208};
 			name="turle_dealer";
-			text="Turtle Dealer";
+			text="Schildkrötendealer";
 			type="mil_dot";
 			colorName="ColorRed";
 		};
@@ -9733,7 +9733,7 @@ class Mission
 		{
 			position[]={24660.627,17.608727,23158.951};
 			name="chop_shop_2";
-			text="Chop Shop";
+			text="Schrotthändler";
 			type="o_armor";
 			colorName="Color1_FD_F";
 		};
@@ -9741,7 +9741,7 @@ class Mission
 		{
 			position[]={5242.2974,78.634445,11514.398};
 			name="chop_shop_3";
-			text="Chop Shop";
+			text="Schrotthändler";
 			type="o_armor";
 			colorName="Color1_FD_F";
 		};
@@ -9749,7 +9749,7 @@ class Mission
 		{
 			position[]={19029.779,23.749619,14549.058};
 			name="chop_shop_4";
-			text="Chop Shop";
+			text="Schrotthändler";
 			type="o_armor";
 			colorName="Color1_FD_F";
 		};
@@ -9924,7 +9924,7 @@ class Mission
 		{
 			position[]={15600.498,18.554039,17211.836};
 			name="hospital_2";
-			text="Hospital";
+			text="Krankenhaus";
 			type="loc_Hospital";
 			colorName="ColorRed";
 			angle=-52.633999;
@@ -9933,7 +9933,7 @@ class Mission
 		{
 			position[]={17495.891,12.760118,13290.289};
 			name="hospital_3";
-			text="Hospital";
+			text="Krankenhaus";
 			type="loc_Hospital";
 			colorName="ColorRed";
 			angle=-45.916607;
@@ -9963,7 +9963,7 @@ class Mission
 		{
 			position[]={14166.97,16.696758,16522.855};
 			name="kart_shop_text_1";
-			text="Go-Kart Shop";
+			text="Go-Kart-Laden";
 			type="loc_Power";
 			colorName="ColorBlue";
 		};
@@ -10002,7 +10002,7 @@ class Mission
 		{
 			position[]={13795.459,60.220287,6396.0879};
 			name="gold_bar_dealer";
-			text="Gold Bars Buyer";
+			text="Goldbarrenkäufer";
 			type="loc_ViewTower";
 			colorName="ColorYellow";
 		};
