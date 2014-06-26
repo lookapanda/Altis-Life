@@ -8356,7 +8356,7 @@ class Mission
 		{
 			position[]={15194.059,17.913683,17313.797};
 			name="cop_spawn_4";
-			text="Polizei-Luft-HQ;
+			text="Polizei-Luft-HQ";
 			type="mil_box";
 			colorName="ColorBLUFOR";
 		};
