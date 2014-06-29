@@ -159,7 +159,9 @@ life_inv_items =
 	"life_inv_goldbar",
 	"life_inv_blastingcharge",
 	"life_inv_boltcutter",
-	"life_inv_defusekit"
+	"life_inv_defusekit",
+	"life_inv_storage1",
+	"life_inv_storage2"
 ];
 
 //Setup variable inv vars.
@@ -188,7 +190,8 @@ life_licenses =
 	["license_civ_sand","civ"],
 	["license_civ_salt","civ"],
 	["license_civ_cement","civ"],
-	["license_med_air","med"]
+	["license_med_air","med"],
+	["license_civ_home", "civ"]
 ];
 
 //Setup License Variables
@@ -265,7 +268,9 @@ buy_array =
 	["spikeStrip",2500],
 	["blastingcharge",35000],
 	["boltcutter",7500],
-	["defusekit",2500]
+	["defusekit",2500],
+	["storage1",100000],
+    ["storage2",250000]
 ];
 __CONST__(buy_array,buy_array);
 

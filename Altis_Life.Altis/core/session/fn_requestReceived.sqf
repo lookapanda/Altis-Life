@@ -57,5 +57,13 @@ switch(playerSide) do {
 		__CONST__(life_copLevel,0);
 	};
 };
-
+switch (playerSide) do
+{
+    case civilian:
+    {
+        // Housing initialization
+        life_houses = _this select 9;
+        life_houses_markers = [];
+    };
+};
 life_session_completed = true;

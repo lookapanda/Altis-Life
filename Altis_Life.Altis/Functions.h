@@ -146,6 +146,10 @@ class Life_Client_Core
 		class clothing_reb {};
 		class clothing_dive {};
 		class clothing_kart {};
+		
+		//Added for Housing
+		class houseContainers {};
+		class housePrice {};
 	};
 
 	class Player_Menu
@@ -207,6 +211,9 @@ class Life_Client_Core
 		class pushObject {};
 		class onFired {};
 		class revealObjects {};
+		
+		class updateCash {};
+		class vehicleGarage {};
 	};
 	
 	class Network
@@ -281,6 +288,10 @@ class Life_Client_Core
 		class repairDoor {};
 		class doorAnimate {};
 		class fedCamDisplay {};
+		
+		class houseOwnerSearch {};
+		class houseInvSearch {};
+		class raidHouse {};
 	};
 	
 	class Gangs
@@ -356,5 +367,32 @@ class Life_Client_Core
 		class safeOpen {};
 		class safeTake {};
 		class safeFix {};
+		
+		class houseMenu {};
+	};
+	
+	class Housing
+	{
+        file = "core\housing";
+        class buyHouse {};
+        class sellHouse {}; 
+        class createMarkers {};
+        class deleteMarkers {};
+        class getBuildID {};
+        class initHouses {};
+        class lockHouse {};
+        class lockStorage {};
+        class countBuildingPositions {};
+        class houseStoreItem {};
+        class houseTakeItem {};
+        class houseInventory {};
+        class openStorage {};
+        class placeStorage {};
+        class preCloseHouseStorage {};
+        class calcGarageSpawn {};
+        class onPut {};
+        class onTake {};
+        class getBuildingPositions {};
+        class isBuildingPosTaken {};
 	};
 };
