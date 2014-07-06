@@ -109,6 +109,20 @@ class CfgFunctions
 			class cleanupRequest {};
 		};
 	};
+	
+	class BRUUUDIS_System {
+        tag = "BRUUUDIS";       
+        class Bruuudis
+        {
+            file = "\life_server\Functions\bruuudis";
+            class deleteHouse {};
+            class insertHouse {};
+            class queryHouses {};
+            class queryPlayerHouses {};
+            class updateHouseStorage {};
+            class updateHouseWeaponStorage {};
+        };
+    };
 };
 
 class CfgVehicles

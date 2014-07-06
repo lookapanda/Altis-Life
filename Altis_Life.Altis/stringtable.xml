@@ -412,7 +412,7 @@
 			<Original>Du bist geheilt.</Original>
 		</Key>
 		<Key ID="STR_NOTF_BeingImpounded">
-			<Original>Achtung, %1! Dein %2 wird gerade vond der Polizei beschlagnahmt.</Original>
+			<Original>Achtung, %1! Dein %2 wird gerade von der Polizei beschlagnahmt.</Original>
 		</Key>
 		<Key ID="STR_NOTF_Impounding">
 			<Original>Beschlagnahmen</Original>

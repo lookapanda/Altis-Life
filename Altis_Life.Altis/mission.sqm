@@ -3473,7 +3473,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="zeus_1";
-					init="removeBackpack this; removeAllWeapons this;";
+					init="removeBackpack this; removeAllWeapons this;this allowDamage false;";
 					description="Zeus 1";
 					syncId=0;
 					synchronizations[]={1};
